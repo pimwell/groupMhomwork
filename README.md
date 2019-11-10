@@ -3,7 +3,7 @@
 pimwell.github.io Version 1.0  11/11/19
 
 Info: 
-This Landing Page encourages the user to donate money to help poor little children survive. 
+This privacy policy sets the rules
 
 Contact Info: 
 
