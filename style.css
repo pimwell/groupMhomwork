@@ -1,0 +1,28 @@
+html 
+
+.puppy {size: large;}  
+
+
+p { 
+    text-align: center;
+    background: url(maltese-puppy-ultra-hd-4k.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+    .son {
+        display: block;
+        margin-left: zero;
+        margin-right: auto;
+}
+    #footer {
+        text-align: center;
+        left:0px;
+        bottom:0px;
+        height:30px;
+        width:100%;
+        background:#999;
+     }  
+
